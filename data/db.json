@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTWFyb3VhbmUiLCJsYXN0bmFtZSI6IkJvdWNodGFvdWkiLCJlbWFpbCI6Im1hcm9AZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.RH41QqjSxd-jdOLnnmd-Hdqt07bLZZ6ecjE9ahAZ_90"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1lZCIsImxhc3RuYW1lIjoiWU9VU1NGSSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0._UZo3C7e3-M3_eI_z3rzOOlxvmXzqNoIlTmTiWKB4nU"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTWFyb3VhbmUiLCJsYXN0bmFtZSI6IkJvdWNodGFvdWkiLCJlbWFpbCI6Im1hcm9AZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.y3PXG8-Iv0lGjUTNklVbrwt_b8BDZHGk8vi72JQi6NE"
+    }
+  ],
+  "products": [
+    {
+      "name": "MSI",
+      "price": 1599,
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "Iphone 13 Pro Max",
+      "price": 1500,
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Airpods Case",
+      "price": 0,
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "Maro",
+      "price": 999,
+      "checked": true,
+      "id": 16
+    },
+    {
+      "name": "ASUS TUF DASH F15",
+      "price": "1200",
+      "checked": true,
+      "id": 20
+    },
+    {
+      "name": "Airpods Pro",
+      "price": "249",
+      "checked": true,
+      "id": 24
+    },
+    {
+      "name": "IPhone 15 pro max",
+      "price": "1600",
+      "checked": false,
+      "id": 28
+    },
+    {
+      "name": "PS5 Slim",
+      "price": "599",
+      "checked": true,
+      "id": 32
+    },
+    {
+      "name": "test1",
+      "price": "11",
+      "checked": true,
+      "id": 33
+    },
+    {
+      "name": "newTest",
+      "price": "25000",
+      "checked": true,
+      "id": 34
+    },
+    {
+      "name": "test1",
+      "price": "2000",
+      "checked": true,
+      "id": 35
+    },
+    {
+      "name": "newTest",
+      "price": "25000",
+      "checked": true,
+      "id": 36
+    }
+  ]
+}
