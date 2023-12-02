@@ -1,7 +1,7 @@
 # Web Ecom App (Angular)
 <hr>
 
-Premierement nous devons creer "db.json" dans le dossier "data":
+Nous devons creer "db.json" dans le dossier "data":
 
 <img src="captures/dbJson.png">
 <img src="captures/dbJson2.png">
@@ -13,7 +13,7 @@ Mais d'abord nous allons installer json-server avec:
 
 Et pour demarrer json server:
 <br>
-"json-server -w data/db.json -p 9000"
+"json-server -w data/db.json -p 8089"
 
 <br>
 
